@@ -5,6 +5,7 @@ html, body {
     font-family: sans-serif;
     color: white;
     text-decoration: #EAEAEA;
+    box-sizing: border-box;
 }
 
 h1 {
@@ -43,6 +44,27 @@ header {
     text-align: center;
 }
 
+main{
+    height: 70vh;
+}
+
+footer{
+    height: 8vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: .8rem;
+    background-color: #78827833;
+}
+
+a{
+    text-decoration: none;
+    color: #0d71b0;
+}
+
+a:hover{
+    color: #FF5600;
+}
 
 @media screen and (max-width: 890px){
     header {
