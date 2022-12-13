@@ -44,11 +44,11 @@ header {
     text-align: center;
 }
 
-main{
+main {
     height: 70vh;
 }
 
-footer{
+footer {
     height: 8vh;
     display: flex;
     align-items: center;
@@ -57,12 +57,12 @@ footer{
     background-color: #78827833;
 }
 
-a{
+a {
     text-decoration: none;
     color: #0d71b0;
 }
 
-a:hover{
+a:hover { 
     color: #FF5600;
 }
 
