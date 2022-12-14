@@ -46,6 +46,23 @@ header {
 
 main {
     height: 70vh;
+    background-color: #333333;
+}
+
+main, main .card {
+    max-width: 69.4vw;
+    margin: 0 auto;
+}
+
+ .card {
+    height: auto;
+    min-height: 20vh;
+    width: 60vw;
+    padding: .8rem;
+    border-radius: .2rem;
+    background-color: #0d71b0;
+    display: flex;
+    gap: 1rem;
 }
 
 footer {
