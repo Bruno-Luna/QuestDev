@@ -61,9 +61,7 @@ main, main .card {
     padding: .8rem;
     border-radius: .2rem;
     background-color: #0d71b0;
-    display: flex;
-    gap: 1rem;
-}
+ }
 
 footer {
     height: 8vh;
