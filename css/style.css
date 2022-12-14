@@ -3,7 +3,7 @@ html, body {
     margin: 0px;
     padding: 0px;
     font-family: sans-serif;
-    color: white;
+    color: #ffffff;
     text-decoration: #EAEAEA;
     box-sizing: border-box;
 }
@@ -30,7 +30,7 @@ header {
 }
 
 .logo {
-    background-color: rgba(120, 130, 120, 0.2);
+    background-color: #78827833;
     color: #FF5600;
     display: block;
     font-size: 2rem;
@@ -84,4 +84,3 @@ a:hover {
         font-size: 1.1rem;
     }
 }
-
